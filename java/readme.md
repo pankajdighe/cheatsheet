@@ -1,2 +1,2 @@
 
-Collection Interface: http://www.falkhausen.de/Java-8/java.util/Collection-Hierarchy.png
+Collection Interface: <img src=http://www.falkhausen.de/Java-8/java.util/Collection-Hierarchy.png>
